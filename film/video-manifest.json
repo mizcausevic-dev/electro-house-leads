@@ -1,0 +1,26 @@
+{
+  "title": "Electro House Leads",
+  "study": "el01",
+  "bpm": 128,
+  "source_audio": "preview/electro-house-leads-simple-synth-preview.mp3",
+  "source_audio_sha256": "ac484dcebdc5ba1d226ca8310f147639f696b5b9a09a57ec3c1f2bea19a287a8",
+  "source_midi": "midi/el01-chrome-break/el01-chrome-break-combined.mid",
+  "source_midi_sha256": "694f9c837849b1161c3c17bfd22d30e8004cc092aacaac5e0e5aeab170462bbb",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "ff5f17938f62d09013a5324bd96d21dc0c93b1f90e9c78f1481dd96c6886b786",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "159e0247e7710363180d37b8cca49e5cf3f33594e8acc3489341587e08df880b",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "f110e66dd73c4182c99a6560b74b4460c99e16ae99228bcec2f9503f562f141d",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
