@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/electro-house-leads-midi.zip",
-      "bytes": 29827,
-      "sha256": "5583b42badc8d306f60c7053eb8960e6f34f31dad1607a95fc4224e1b6549eef"
+      "bytes": 31810,
+      "sha256": "427e28c36e4db1bca688d573858c7b4b048f2f4812870187f8528715ecaf14e8"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9483,
-      "sha256": "62bff073edd22d9d548bc66aa259c1a7fe78bab3d31d211bcb477330d38373b0"
+      "bytes": 9673,
+      "sha256": "2265be242ef49bebaa355decfefc229f2578b1a76ce9c5c087ff0a084c16286c"
     },
     {
       "path": "midi/el01-chrome-break/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "640b8342fe73ddf8cd735293d5a1dedb78cd07a5c6c21d9947bf796c3ccdcc83"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/electro-house-leads-simple-synth-preview.mp3",
       "bytes": 1453915,
       "sha256": "ac484dcebdc5ba1d226ca8310f147639f696b5b9a09a57ec3c1f2bea19a287a8"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3884,
-      "sha256": "c9526016f3749aa8d1d98a407bd73e6d63f70532510d22071b980fdff98693e2"
+      "bytes": 3999,
+      "sha256": "364b872baae52687a08d16ef92f609c3a0691675ddacb6145fbf7381f1375982"
     },
     {
       "path": "social/instagram/caption.txt",
